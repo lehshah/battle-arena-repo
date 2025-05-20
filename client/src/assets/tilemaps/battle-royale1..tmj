@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"battle-royale1..tmj"
-        }
-    },
  "height":100,
  "infinite":false,
  "layers":[

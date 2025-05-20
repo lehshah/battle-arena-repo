@@ -68,7 +68,7 @@ export default class Game extends Phaser.Scene {
 
         const tileset = this.map.addTilesetImage("battle-royale", "tiles");
         const floorLayer = this.map.createStaticLayer("floor", tileset, 0, 0);
-        //const herbeLayer = this.map.createStaticLayer("herbe", tileset, 0, 0);
+        const herbeLayer = this.map.createStaticLayer("herbe", tileset, 0, 0);
         this.map["blockLayer"] = this.map.createStaticLayer("block", tileset, 0, 0);
         //this.map["wallLayer"] = this.map.createStaticLayer("wall", tileset, 0, 0);
         this.map["blockLayer"].setCollisionByProperty({
