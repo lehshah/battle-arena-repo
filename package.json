@@ -36,12 +36,14 @@
     "@colyseus/monitor": "^0.10.0",
     "@colyseus/social": "^0.10.2",
     "colyseus": "^0.10.9",
+    "colyseus.js": "^0.10.8",
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
-    "pm2": "^3.5.1",
-    "colyseus.js": "^0.10.8",
     "jquery": "^3.4.1",
-    "phaser": "^3.16.2"
+    "phaser": "^3.16.2",
+    "playfab-sdk": "^2.175.250606",
+    "pm2": "^3.5.1",
+    "regenerator-runtime": "^0.14.1"
   },
   "engines": {
     "node": "10.x"

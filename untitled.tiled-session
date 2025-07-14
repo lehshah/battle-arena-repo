@@ -1,0 +1,82 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "client/src/assets/tilemaps",
+        "client/src/assets",
+        ".",
+        "client",
+        "client/src"
+    ],
+    "fileStates": {
+        "client/src/assets/tilemaps/battle-royale.json": {
+            "scale": 0.2553125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961.5667074663403,
+                "y": 738.3108935128519
+            }
+        },
+        "client/src/assets/tilemaps/battle-royale.json#battle-royale": {
+            "scaleInDock": 1
+        },
+        "client/src/assets/tilemaps/battle-royale1..tmj": {
+            "scale": 0.1531875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1602.6111791105673,
+                "y": 1765.8098735210117
+            }
+        },
+        "client/src/assets/tilemaps/battle-royale1..tmj#battle-royale": {
+            "scaleInDock": 1
+        },
+        "client/src/assets/tilemaps/battle-royale1.json": {
+            "scale": 0.1531875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1602.6111791105673,
+                "y": 2758.0579355365157
+            }
+        },
+        "client/src/assets/tilemaps/battle-royale1.json#battle-royale": {
+            "scaleInDock": 1
+        },
+        "client/src/assets/tilemaps/tuxmon.json": {
+            "scale": 0.357734375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 638.7420834243286,
+                "y": 638.7420834243286
+            }
+        },
+        "client/src/assets/tilemaps/tuxmon.json#tuxmon": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "client/src/assets/tilemaps/tuxmon.tmx": {
+            "scale": 0.38296874999999997,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.044471644227,
+                "y": 641.0444716442269
+            }
+        },
+        "client/src/assets/tilemaps/tuxmon.tmx#tuxmon": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "client/src/assets/tilemaps/tuxmon.json",
+        "client/src/assets/tilemaps/battle-royale1.json",
+        "client/src/assets/tilemaps/battle-royale.json",
+        "client/src/assets/tilemaps/tuxmon.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "client/src/assets/tilemaps/tuxmon.json",
+        "client/src/assets/tilemaps/tuxmon.tmx",
+        "client/src/assets/tilemaps/battle-royale.json",
+        "client/src/assets/tilemaps/battle-royale1.json",
+        "client/src/assets/tilemaps/battle-royale1..tmj"
+    ]
+}

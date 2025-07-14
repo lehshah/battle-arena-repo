@@ -60,3 +60,12 @@ Three brightful minds namely:
  [Teddy Baha](https://github.com/Wil2129) - Firebase Samurai and Ace critical thinker.  
  [Alex Jordan](https://github.com/alexjordan05) - Graphics Sensei and Gamer in the Soul.  
 "# battle-arena-" 
+
+## Changes Made During My Internship
+
+- Implemented and customized the leaderboard user interface in the game.
+- Integrated the leaderboard with the backend to display player IDs and kill counts.
+- Set up API connections to fetch and submit leaderboard data.
+- Ensured the leaderboard updates in real time as new scores are submitted.
+- Used the unique player ID provided by the login system for all leaderboard operations.
+- Documented all changes and updated the project structure for future development.
